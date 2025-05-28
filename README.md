@@ -1,7 +1,7 @@
 # Privacy-Policy-for-Candy-Farm
 Last Updated: May 28 2025
 
-I value your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile game, Candy Farm.
+We value your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile game, Candy Farm.
 
 1. Information We Collect
 We may collect the following types of information:
@@ -68,6 +68,6 @@ We may update this Privacy Policy from time to time. We’ll notify you of any s
 If you have any questions or requests regarding this Privacy Policy, contact us at:
 
 📧 Email: nkwuap@gmail.com
-📍 Company: Nkwua Precious
+📍 Company: Candy Farm
 
 
