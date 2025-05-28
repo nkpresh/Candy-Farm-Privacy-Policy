@@ -3,7 +3,7 @@ Last Updated: May 28 2025
 
 I value your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile game, Candy Farm.
 
-#1. Information We Collect
+1. Information We Collect
 We may collect the following types of information:
 
 a. Automatically Collected Data:
